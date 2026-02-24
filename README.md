@@ -31,4 +31,4 @@ Sendo o único projeto do Rank 00, a Libft marca o início da formação na 42, 
 
 - Norma da 42
 
-- Vídeo de apoio: https://www.youtube.com/watch?v=pF1_fXz5zN0
+- [Include Guards in C – Tutorial](https://www.youtube.com/watch?v=pF1_fXz5zN0)
