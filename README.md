@@ -25,4 +25,10 @@ Sendo o único projeto do Rank 00, a Libft marca o início da formação na 42, 
 	
 ## Instruções
 
-## Recursos
+-Documentação oficial da linguagem C (man pages)
+
+- Subject do projeto Libft
+
+- Norma da 42
+
+- Vídeo de apoio: https://www.youtube.com/watch?v=pF1_fXz5zN0
