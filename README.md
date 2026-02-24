@@ -7,7 +7,7 @@ Este projeto foi criado como parte do currículo da 42 por ganselmo
 ## Descrição
 A Libft é o primeiro projeto do Common Core da 42 e tem como objetivo a criação de uma biblioteca própria em C, reunindo funções fundamentais de manipulação de memória, strings, caracteres e listas encadeadas.
 
-O projeto exige a reimplementação de diversas funções da libc, respeitando rigorosamente seus comportamentos originais, além da criação de funções adicionais que expandem sua utilidade. Todas as implementações devem seguir estritamente a Norm da 42, promovendo organização, clareza e modularidade no código 
+O projeto exige a reimplementação de diversas funções da libc, respeitando rigorosamente seus comportamentos originais, além da criação de funções adicionais que expandem sua utilidade. Todas as implementações devem seguir estritamente a Norma da 42, promovendo organização, clareza e modularidade no código 
 
 Mais do que apenas recriar funções padrão, a Libft estabelece a base técnica para todos os projetos futuros do currículo. A biblioteca desenvolvida passa a ser reutilizada ao longo da formação, consolidando conceitos essenciais como:
 
